@@ -42,11 +42,9 @@ Web Crawler is a Python-based project developed to automate the process of visit
 1. Clone or download the project.
 2. Open the project folder in VS Code.
 3. Install the required libraries:
-
-pip install requests beautifulsoup4
+```pip install requests beautifulsoup4```
 
 4. Run the Python file:
-
-python main.py
+```python main.py```
 
 5. Enter the URL when prompted.
